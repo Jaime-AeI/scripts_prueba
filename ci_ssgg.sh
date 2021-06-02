@@ -1,6 +1,6 @@
 !/bin/sh
 
-# Definimos la conexion a la Base de Datos de Remedy Remedyy
+# Definimos la conexion a la Base de Datos de Remedy Remedyy Remedyy
 _db_password=`cat "/datos/scripts/scripts_REMEDY9/.remedy_sql_defaults"`
 
 # Definimos la conexion a la Base de Datos mySQL
